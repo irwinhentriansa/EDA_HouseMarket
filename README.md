@@ -8,8 +8,6 @@ Dataset ini berasal dari paper Jurnal Ilmiah berjudul "Hotel booking demand data
 
 Apabila kesulitan download dataset pada repo ini atau ingin mengetahui keterangan di setiap kolom, bisa akses ke: https://www.kaggle.com/jessemostipak/hotel-booking-demand/data. 
 
-![https://unsplash.com/photos/Koei_7yYtIo](./world.png)
-
 ### **A. Data Cleaning & Preprocessing**
 
 __Batasan Data:__
